@@ -50,8 +50,8 @@ Registry:
 
 1. Clone ou realize o download dos aqruivos no repositório com o link abaixo:
 
-   ```bash
-   git clone https://github.com/usuario/waiter-mobile.git
+   ```
+   https://github.com/devleopernardo/WaiterProject
    ```
 2. Abra o projeto no Android Studio.
 3. Aguarde o carregamento das dependências (Gradle).
