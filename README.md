@@ -21,11 +21,12 @@ Inspirado nos sistemas de cardápios online via **QR Code**, o app permite ao cl
 
 | Código | Funcionalidade      | Descrição                                                          |
 | :----: | ------------------- | ------------------------------------------------------------------ |
-|   RF1  | Escanear QR Code    | O cliente acessa o cardápio digital ao escanear o QR Code da mesa. |
-|   RF2  | Pesquisar           | Permite buscar pratos, bebidas e aperitivos.                       |
-|   RF3  | Selecionar Item     | Adiciona itens ao carrinho de pedidos.                             |
-|   RF4  | Realizar Pedido     | Envia o pedido diretamente ao sistema do restaurante.              |
-|   RF5  | Avaliar Atendimento | O cliente pode avaliar sua experiência após o pedido.              |
+|   RF1  | Login                     | Login Correto com autenticacao.                                    | 
+|   RF2  | Cadastrar                 | Ler, Cadastrar, Alterar, Excluir Usuarios.                         |
+|   RF3  | Recuperar Senha           | Recuperar Senha, quando o usuario perde a senha.                   |
+|   RF4  | Gestao Administrativa     | Manter usuario, Contabilizar Contar e Manter Cardapio.             |
+
+
 
 ## 🛠️ **Instalação e Execução**
 
