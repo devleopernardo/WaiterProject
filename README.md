@@ -1,11 +1,4 @@
 
-<h1 align="center">
-  <br>
-  <a href=""><img src="./assets/logo-waiter.svg" alt="logo do waiter" width="250"></a>
-  <br>
-  <br>
-</h1>
-
 # 📱 **Waiter Mobile**
 
 O **Waiter Mobile** é a versão para dispositivos Android do sistema **Waiter**, um aplicativo de **gestão de restaurantes** que conecta clientes e funcionários em tempo real.
