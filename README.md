@@ -1,4 +1,10 @@
-# WaiterProject
+
+<h1 align="center">
+  <br>
+  <a href=""><img src="./assets/logo-waiter.svg" alt="logo do waiter" width="250"></a>
+  <br>
+  <br>
+</h1>
 
 # 📱 **Waiter Mobile**
 
